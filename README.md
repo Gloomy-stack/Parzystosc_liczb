@@ -1,0 +1,1 @@
+# Parzystosc_liczb
